@@ -6,7 +6,7 @@ from . models import CustomerRegistrationForm,CustomerProfileForm
 from django.contrib import messages
 from django.db.models import Q
 from django.conf import settings
-import razorpay
+#import razorpay
 
 
 # Create your views here.
